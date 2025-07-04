@@ -5,5 +5,4 @@ export {
     TheHeader,
     Landing,
     Section1,
-    // TheHeader,
 }
